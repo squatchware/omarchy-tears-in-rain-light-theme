@@ -1,5 +1,7 @@
 # Tears in Rain Light for Omarchy
 
+> **Retired (27 September 2026).** Movie Night is dark only now: use [Tears In Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme). This theme still installs, but it won't be updated.
+
 The daylight half of [Tears in Rain](https://github.com/squatchware/omarchy-tears-in-rain-theme): the same artwork with a true light palette for apps and system chrome.
 
 Part of **[Movie Night](https://squatchware.dev/movies/)** from Squatchware: six Omarchy themes for the
