@@ -1,0 +1,35 @@
+mode = "light"
+
+# Pearl mist, wet concrete, rain cyan, sodium amber, and restrained neon.
+accent = "#087C83"
+selection = "#CDE4E5"
+muted = "#5F6E74"
+
+background = "#F1F5F4"
+dark_background = "#E4ECEB"
+darker_background = "#D5E1E0"
+lighter_background = "#DCE9E9"
+
+foreground = "#1B2B31"
+dark_foreground = "#5F6E74"
+light_foreground = "#3F565D"
+bright_foreground = "#0B171B"
+
+red = "#B9414A"
+yellow = "#80620A"
+orange = "#AF570A"
+green = "#357A50"
+cyan = "#087C83"
+blue = "#357394"
+magenta = "#A33B76"
+brown = "#74503D"
+
+bright_red = "#9E3039"
+bright_yellow = "#6B5100"
+bright_green = "#286840"
+bright_cyan = "#006A70"
+bright_blue = "#28617E"
+bright_magenta = "#8B2B63"
+
+selection_background = "#CDE4E5"
+selection_foreground = "#0B171B"
